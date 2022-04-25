@@ -3,17 +3,12 @@
 	<url>
 		<loc>http://www.crawltest.zumwa.lt</loc>
 		<priority>1.00</priority>
-		<lastmod>2022-04-25</lastmod>
+		<lastmod>2022-04-24</lastmod>
 	</url>
 	<url>
-		<loc>http://www.crawltest.zumwa.lt/page-2.html</loc>
+		<loc>http://www.crawltest.zumwa.lt/disallow.html</loc>
 		<priority>0.50</priority>
-		<lastmod>2022-04-25</lastmod>
-	</url>
-	<url>
-		<loc>http://www.crawltest.zumwa.lt/nofollow.html</loc>
-		<priority>0.50</priority>
-		<lastmod>2022-04-25</lastmod>
+		<lastmod>2022-04-24</lastmod>
 	</url>
 	<url>
 		<loc>http://www.crawltest.zumwa.lt/meta-noindex.html</loc>
@@ -21,8 +16,13 @@
 		<lastmod>2022-04-25</lastmod>
 	</url>
 	<url>
-		<loc>http://www.crawltest.zumwa.lt/disallow.html</loc>
+		<loc>http://www.crawltest.zumwa.lt/nofollow.html</loc>
 		<priority>0.50</priority>
-		<lastmod>2022-04-25</lastmod>
+		<lastmod>2022-04-24</lastmod>
+	</url>
+	<url>
+		<loc>http://www.crawltest.zumwa.lt/page-2.html</loc>
+		<priority>0.50</priority>
+		<lastmod>2022-04-24</lastmod>
 	</url>
 </urlset>
