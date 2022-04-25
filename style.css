@@ -1,0 +1,28 @@
+head, head * {
+    display: block;
+    font-family: monospace;
+    background-color: lightblue;
+    color: maroon;
+}
+
+head {
+    padding: 1rem;
+}
+
+link[href][rel]::after {
+    content: attr(rel);
+    text-transform: capitalize;
+}
+
+meta[charset]::after {
+    content: 'Charset: 'attr(charset);
+}
+
+meta[name][content]::after {
+    content: attr(name) ': 'attr(content);
+    text-transform: capitalize;
+}
+
+script[src]::after {
+    content: 'External file: 'attr(src);
+}
