@@ -3,25 +3,35 @@
 	<url>
 		<loc>http://www.crawltest.zumwa.lt</loc>
 		<priority>1.00</priority>
+		<lastmod>2022-04-17</lastmod>
+	</url>
+	<url>
+		<loc>http://www.crawltest.zumwa.lt/acevape.html</loc>
+		<priority>0.50</priority>
 		<lastmod>2022-04-25</lastmod>
 	</url>
 	<url>
 		<loc>http://www.crawltest.zumwa.lt/disallow.html</loc>
 		<priority>0.50</priority>
-		<lastmod>2022-04-08</lastmod>
+		<lastmod>2022-03-31</lastmod>
 	</url>
 	<url>
 		<loc>http://www.crawltest.zumwa.lt/meta-noindex.html</loc>
 		<priority>0.50</priority>
-		<lastmod>2022-04-24</lastmod>
+		<lastmod>2022-04-16</lastmod>
 	</url>
 	<url>
 		<loc>http://www.crawltest.zumwa.lt/nofollow.html</loc>
 		<priority>0.50</priority>
-		<lastmod>2022-04-23</lastmod>
+		<lastmod>2022-04-15</lastmod>
 	</url>
 	<url>
 		<loc>http://www.crawltest.zumwa.lt/page-2.html</loc>
+		<priority>0.50</priority>
+		<lastmod>2022-04-12</lastmod>
+	</url>
+	<url>
+		<loc>http://www.crawltest.zumwa.lt/eprod.html</loc>
 		<priority>0.50</priority>
 		<lastmod>2022-04-20</lastmod>
 	</url>
