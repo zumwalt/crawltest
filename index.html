@@ -6,8 +6,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Index</title>
     <link rel="stylesheet" href="https://fonts.xz.style/serve/inter.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@exampledev/new.css@1.1.2/new.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@exampledev/new.css@1.1.2/new.min.css">
     <link rel="stylesheet" href="style.css">
+
+    <script src="https://unpkg.com/@elastic/apm-rum/dist/bundles/elastic-apm-rum.umd.min.js" crossorigin></script>
+    <script>
+        elasticApm.init({
+            serviceName: "codesandbox",
+            serverUrl:
+                "https://2aca4a32a7424806a16ab23c036fb634.apm.us-west2.gcp.elastic-cloud.com:443"
+        });
+    </script>
 </head>
 <body>
     <h1>This is the index page.</h1>
